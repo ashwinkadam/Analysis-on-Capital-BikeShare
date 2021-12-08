@@ -5,8 +5,12 @@ The bikes can be unlocked from any station and returned to any station in the sy
 Capital Bikeshare provides two types of bikes, the classic bike and the ebike which comes with pedal assist technology for smooth and breezy ride. 
 Bikes are available for use 24 hours a day, 7 days a week, 365 days a year.
 
+![image](https://user-images.githubusercontent.com/53835307/145259701-33f6d8b1-a3fa-4b4b-b133-f0170e65f0db.png)
+
+
 This [Dashboard](https://public.tableau.com/app/profile/ashwin8623/viz/AnalysisonCapitalBikeshare/CapitalBikeshare) intends to cover the story of the rise of Capital Bikeshare in the bikeshare market at Washington D.C. and the impact of the rise in the number of competitors and COVID-19 using Tableau.
 It Also show interesting behaviour of users during the pandemic period.
+
 
 
 The dataset used can be found [here](https://www.capitalbikeshare.com/system-data)
